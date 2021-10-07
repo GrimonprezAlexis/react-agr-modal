@@ -1,5 +1,5 @@
 {
-  "name": "@grimonprezalexis/react-modal-agr",
+  "name": "@grimonprezalexis/agr-react-modal",
   "author": "Alexis Grimonprez",
   "version": "0.1.0",
   "main": "dist/index.js",
@@ -29,9 +29,5 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/grimonprezalexis/react-modal-agr.git"
   }
 }
