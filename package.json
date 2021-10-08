@@ -1,5 +1,5 @@
 {
-  "name": "@grimonprezalexis/agr-react-modal",
+  "name": "react-agr-modal",
   "author": "Alexis Grimonprez",
   "version": "0.1.0",
   "main": "dist/index.js",
