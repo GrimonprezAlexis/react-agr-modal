@@ -3,4 +3,8 @@ A library of React components created using `create-react-app`.
 
 ## Installation
 Run the following command:
-`npm install react-agr-modal`
+`npm i agr-modal-react`
+
+### Link
+[NPM](https://www.npmjs.com/package/agr-modal-react)
+[YT](https://www.youtube.com/watch?v=hf6Z8OZanec)
