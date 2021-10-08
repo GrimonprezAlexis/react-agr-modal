@@ -1,15 +1,22 @@
 {
   "name": "agr-modal-react",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "",
   "main": "modal.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel modal.jsx --out-file modal.js"
   },
   "author": "Alexis Grimonprez",
   "license": "ISC",
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-react": "^7.14.5"
   }
 }
